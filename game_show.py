@@ -55,8 +55,8 @@ def main():
     percent_dont_switched = dont_switch_win / (switch_win + dont_switch_win)
     print(f"Number of Wins when you switched: {switch_win}")
     print(f"Number of Wins when you didn't: {dont_switch_win}")
-    print(f"Percentage if you switch: {percent_switched} %")
-    print(f"Percentage if you don't switch: {percent_dont_switched} %")
+    print(f"Percentage chance if you switch: {percent_switched} %")
+    print(f"Percentage chance if you don't switch: {percent_dont_switched} %")
 
 
 main()
