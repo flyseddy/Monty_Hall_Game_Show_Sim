@@ -1,6 +1,6 @@
 # Monty Hall Game Show Simulation
 
-Program that simulates the Monty Hall Game Show problem to prove the 66.6% behind switching to the other door.
+Program that simulates the Monty Hall Game Show problem to prove the 66.6% chance behind switching to the other door.
 
 ## Installation
 No packages required to install, you just need to import the Random Class.
