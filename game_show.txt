@@ -1,0 +1,16 @@
+# Monty Hall Problem
+
+# There are 3 doors behind which are two goats and a car
+# You pick a door, hoping to choose a car
+# The game show host, examines the other doors and opens one with a goat (if both doors have goats, he picks randomly)
+
+PLAN
+
+# We're going to make 3 variables that represent doors and these doors will randomly choose which doors will have a goat or a car
+
+# ex 
+
+list_of_doors = ['door_a', 'door_b', 'door_c']
+shuffle(list_of_doors)
+
+
