@@ -52,7 +52,7 @@ def main():
                     print("You win")
                     dont_switch_win += 1
     print(f"Number of Wins when you switched: {switch_win}")
-    print(f"Number of wins when you didn't: {dont_switch_win}")
+    print(f"Number of Wins when you didn't: {dont_switch_win}")
 
 main()
 
