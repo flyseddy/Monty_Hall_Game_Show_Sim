@@ -16,6 +16,8 @@ Ex.
 ```python
 Number of Wins when you switched: 333040
 Number of Wins when you didn't: 166920
+Percentage if you switch: 0.66%
+Percentage if you don't switch: 0.33%
 ```
 
 ## License
