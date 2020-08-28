@@ -17,7 +17,7 @@ It will simulate the Game Show a million times and print out the results
 ```python
 Number of Wins when you switched: 333040
 Number of Wins when you didn't: 166920
-Percentage chance if you switch: 66.6%
+Percentage chance if you switch: 66.7%
 Percentage chance if you don't switch: 33.3%
 ```
 
