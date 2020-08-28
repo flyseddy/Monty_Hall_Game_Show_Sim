@@ -4,7 +4,7 @@ from random import shuffle, choice
 def main():
     switch_win = 0
     dont_switch_win = 0
-    for i in range(1_000_000):
+    for i in range(1_500_000):
         # lists the possibilities of goat, goat, or a car
         list_of_possibilities = ['goat', 'goat', 'car']
         # Shuffles so it doesn't stay in the same place (door)
