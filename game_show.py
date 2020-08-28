@@ -45,7 +45,7 @@ def main():
                 else:
                     print("You lose")
             if cpu_input2 == 'n':
-                # If the last door has a car and the cpu chose not to switch, it will ose
+                # If the last door has a car and the cpu chose not to switch, it will lose
                 if val1 == 'car':
                     print("You lose")
                 else:
