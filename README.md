@@ -1,9 +1,9 @@
 # Monty Hall Game Show Simulation
 
 Program that simulates the Monty Hall Game Show problem to prove the 66.6% chance behind switching to the other door.
-
+![](https://github.com/flyseddy/Monty_Hall_Game_Show_Sim/blob/master/demo.gif)
 ## Installation
-No packages required to install, you just need to import the Random Class.
+No packages required to install, just git clone.
 
 
 ## Usage
