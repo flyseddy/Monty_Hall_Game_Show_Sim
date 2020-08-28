@@ -13,7 +13,7 @@ No packages required to install, just git clone.
 python3 game_show.py
 ```
 It will simulate the Game Show a million times and print out the results
-Ex.
+
 ```python
 Number of Wins when you switched: 333040
 Number of Wins when you didn't: 166920
